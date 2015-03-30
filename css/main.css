@@ -1,0 +1,28 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+  background-color: #7ec0ee
+}
+
+.jumbotron {
+  background-color: #7ec0ee;
+}
+
+#a-maze {
+  color: #7ec0ee;
+  border: 0px;
+  background-image: none;
+  background-color: #7ec0ee;
+  text-shadow: none;
+  box-shadow: none;
+}
+
+#a-maze:active {
+  color: #ffffff;
+  box-shadow: inset 0 3px 5px rgba(0,0,0,.125);
+  border: 1px;
+}
